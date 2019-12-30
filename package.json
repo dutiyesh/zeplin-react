@@ -1,0 +1,21 @@
+{
+  "name": "zeplin-react",
+  "version": "0.1.0",
+  "description": "Zeplin React Extension",
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec",
+    "publish": "zem publish"
+  },
+  "zeplin": {
+    "displayName": "Zeplin React",
+    "platforms": [
+      "web"
+    ]
+  },
+  "dependencies": {
+    "zem": "^0.4.4"
+  }
+}
