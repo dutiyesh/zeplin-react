@@ -1,6 +1,6 @@
-# Zeplin React Extension
+# Zeplin React
 
-A Zeplin Extension for your React component Design System
+Generates React component snippets from colors, text styles and layers.
 
 ## Commands
 

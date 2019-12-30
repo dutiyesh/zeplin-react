@@ -1,7 +1,7 @@
 {
   "name": "zeplin-react",
   "version": "0.1.0",
-  "description": "Zeplin React Extension",
+  "description": "Generates React component snippets from colors, text styles and layers.",
   "scripts": {
     "start": "zem start",
     "build": "zem build",
